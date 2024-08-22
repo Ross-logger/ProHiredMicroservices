@@ -8,7 +8,7 @@ ProHired is a modern platform for managing job vacancies, utilizing the latest t
 
 First of all clone this repository with the following command:
 ```bash
-git clone https://github.com/Ross-logger/ProHired.git
+git clone https://github.com/Ross-logger/ProHiredMicroservices.git
 ```
 
 To run the code, navigate to the directory with the `src` folder and execute the following command:
